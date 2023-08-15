@@ -80,6 +80,18 @@ code {
         border-color: #000;
     }
 
+.btn-youtube {
+    color: white;
+    background-color: red;
+    border-color: orangered;
+}
+
+    .btn-youtube:hover {
+        color: white;
+        background-color: #000;
+        border-color: #000;
+    }
+
 .btn-github {
     color: black;
     background-color: #fff;
